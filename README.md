@@ -1,4 +1,3 @@
-# dp_composite
-Composite design pattern example.
+# Design Pattern - Composite
 
-Example code used at: https://nick79.gitlab.io/mnblog/post/composite_design_pattern/.
+Example of java implementation of composite design pattern.
